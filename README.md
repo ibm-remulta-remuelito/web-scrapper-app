@@ -108,4 +108,4 @@ For error handling, I use Winston as logger to get all of the log information in
 
 ## Support
 
-For support, email remultasimpatiko@gmail.com.
+For support, email remulta.remuelito@ibm.com.
